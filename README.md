@@ -18,4 +18,4 @@ Planilha de Gestão de Defeitos (Excel/Google Sheets).
 
 Navegador (Testes de Interface).
 
-📄 [Clique aqui para visualizar a planilha de reports](./Planilha%20de%20bugs%20.xlsx)
+🔗 [Clique aqui para visualizar a Planilha de Bug Reports (Google Sheets)](https://docs.google.com/spreadsheets/d/1J4tu-Ny9476rFd_QHBUMD63rz8hNfQ-rWsd3kvZfWlM/edit?usp=sharing)
