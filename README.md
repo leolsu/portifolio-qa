@@ -17,3 +17,5 @@ Ferramentas utilizadas:
 Planilha de Gestão de Defeitos (Excel/Google Sheets).
 
 Navegador (Testes de Interface).
+
+📄 [Clique aqui para visualizar a planilha de reports](./Planilha%20de%20bugs%20.xlsx)
